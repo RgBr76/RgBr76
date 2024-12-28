@@ -21,6 +21,10 @@ ___Negrito e itálico___
 - Lista 2
     - Sublista
 
+1. Lista 1
+2. Lista 2
+    1. Sublista
+
 
 <!--
 **RgBr76/RgBr76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
