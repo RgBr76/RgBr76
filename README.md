@@ -10,6 +10,22 @@
 
 🌱 Estudo na Etec de Praia Grande.
 
+------
+
+💬 [Acesse meu LinkedIn](https://www.linkedin.com/in/rodrigo-finotti-4704a8220/)
+
+------
+
+### Minhas tecnologias
+
+<!-- 
+
+https://gist.github.com/rxaviers/7360908 icones
+
+https://devicon.dev/ icones dev
+
+-->
+
 <!--
 **RgBr76/RgBr76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
