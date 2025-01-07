@@ -52,7 +52,7 @@ https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark
 
 -->
 
-![Rodrigo Finotti GitHub stats](https://github-readme-stats.vercel.app/api?username=RgBr76&show_icons=true&theme=dark)
+![Rodrigo Finotti GitHub stats](https://github-readme-stats.vercel.app/api?username=RgBr76&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RgBr76&layout=compact&langs_count=7&theme=dracula)
 
