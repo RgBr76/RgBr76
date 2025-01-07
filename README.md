@@ -43,7 +43,7 @@ https://devicon.dev/ icones dev
 
 ------
 
-![Rodrigo Finotti GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigofinotti&show_icons=true&theme=dark)
+![Rodrigo Finotti GitHub stats](https://github-readme-stats.vercel.app/api?username=RgBr76&show_icons=true&theme=dark)
 
 
 <!--
