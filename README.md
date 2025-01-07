@@ -2,7 +2,8 @@
 
 <!--<center><h2> Sejam bem-vindos ao meu perfil! </h2></center> -->
 
-![Gif - LCat](https://media.tenor.com/iRkL6OMGhU4AAAAM/alarm.gif)
+<center> <img src="https://media.tenor.com/iRkL6OMGhU4AAAAM/alarm.gif" height="300px"> </center>
+
 
 😎 Olá, Eu sou o Rodrigo Finotti!
 
@@ -16,8 +17,6 @@
 
 ------
 
-### Minhas tecnologias
-
 <!-- 
 
 https://gist.github.com/rxaviers/7360908 icones
@@ -25,6 +24,15 @@ https://gist.github.com/rxaviers/7360908 icones
 https://devicon.dev/ icones dev
 
 -->
+
+
+### Minhas tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px">
+
+
 
 <!--
 **RgBr76/RgBr76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
