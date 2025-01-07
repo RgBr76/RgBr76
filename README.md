@@ -32,6 +32,18 @@ https://devicon.dev/ icones dev
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px">
 
+------
+<!--Tabela 1-->
+|Cursos | Certificados |
+| ----- | ------------ |
+| HTML 5 | [Certificado](https://plataforma.refatorando.com.br/certificado/?cert-nonce=5ac6e76827&token=OTYxWVBDOVd0c3RkQjNvN0VQSnVwUT09)|
+| HTML 5 | [Certificado](https://plataforma.refatorando.com.br/certificado/?cert-nonce=5ac6e76827&token=OTYxWVBDOVd0c3RkQjNvN0VQSnVwUT09)|
+
+<!--Tabela 2 - Stats github-->
+
+------
+
+![Rodrigo Finotti GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
 
 <!--
