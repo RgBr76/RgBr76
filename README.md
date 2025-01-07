@@ -2,7 +2,13 @@
 
 <!--<center><h2> Sejam bem-vindos ao meu perfil! </h2></center> -->
 
-![Gif - LCat](https://i.pinimg.com/originals/30/29/51/3029517e824f67d07d86af9bf0b0d795.gif)
+![Gif - LCat](https://media.tenor.com/iRkL6OMGhU4AAAAM/alarm.gif)
+
+😎 Olá, Eu sou o Rodrigo Finotti!
+
+🔭 Sou um aprendiz em Deseolvolvimento de Sistemas e Ciências da Computação. 
+
+🌱 Estudo na Etec de Praia Grande.
 
 <!--
 **RgBr76/RgBr76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
