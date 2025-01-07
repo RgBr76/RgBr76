@@ -2,7 +2,7 @@
 
 <!--<center><h2> Sejam bem-vindos ao meu perfil! </h2></center> -->
 
-<center> <img src="https://media.tenor.com/iRkL6OMGhU4AAAAM/alarm.gif" height="300px"> </center>
+<p align="center"> <img src="https://media.tenor.com/iRkL6OMGhU4AAAAM/alarm.gif" height="300px"> </p>
 
 
 😎 Olá, Eu sou o Rodrigo Finotti!
